@@ -6,7 +6,9 @@
 .quarto
 .RData
 .Rproj.user/
+.Rprofile
 renv/library/
 renv/staging/
 data/
 doc/
+misc/
